@@ -1,0 +1,11 @@
+# Project: GuessTheNumber
+# Date: 18/12/2025
+# soukaina : Product Owner , developer.
+# fatima zahrae : scrum Master , Testeur.
+[ ] Feature-A: implement number generation logic       # Developer
+[ ] Feature-B: create user interface for input       # Developer
+[ ] Merge feature-B into main                        # Developer
+[ ] Resolve merge conflict in guessNumber.js        # Developer
+[ ] Review main branch after merge                  # Scrum Master
+[ ] Test all features                                # Tester
+[ ] Prioritize features and create backlog update   # Product Owner
