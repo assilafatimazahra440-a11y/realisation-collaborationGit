@@ -69,3 +69,5 @@ function guessNumber() {
   tries.textContent = "Try: " + counter + " / " + maxTries;
 }
 
+//end
+
